@@ -25,3 +25,7 @@
 hs_err_pid*
 .idea/
 springcloud-netflix.iml
+user/src/test/
+user/target/classes/application.yml
+user/target/generated-sources/
+user/user.iml

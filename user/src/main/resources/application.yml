@@ -20,4 +20,4 @@ eureka:
 
 spring:
   application:
-    name: client-user # 此实例注册到eureka服务端的name
+    name: consumption-user # 此实例注册到eureka服务端的name

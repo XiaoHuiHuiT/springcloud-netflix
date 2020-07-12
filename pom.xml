@@ -13,6 +13,8 @@
         <module>goods</module>
         <module>goods2</module>
         <module>Eureka3000</module>
+        <module>Eureka3001</module>
+        <module>Eureka3002</module>
     </modules>
 
     <properties>
